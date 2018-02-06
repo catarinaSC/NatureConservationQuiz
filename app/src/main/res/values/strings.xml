@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" translatable="false">Nature Conservation Quiz</string>
+    <!--
+      Question and answers one. [CHAR LIMIT=NONE]
+    -->
+    <string name="question_one"> What IUCN stands for?</string>
+    <string name="question_one_answer_one">International Union for Conservation of Nature</string>
+    <string name="question_one_answer_two">Important Union of Conservation of Nature</string>
+    <string name="question_one_answer_three">International Unity for Conservation of Nature</string>
+    <!--
+      Question and answers two. [CHAR LIMIT=NONE]
+    -->
+    <string name="question_two">Which species are currently classified by IUCN as endangered?</string>
+    <string name="question_two_answer_one" translatable="false"> Cobitis calderoni</string>
+    <string name="question_two_answer_two" translatable="false"> Anaecypris hispanica</string>
+    <string name="question_two_answer_three" translatable="false"> Sus scrofa</string>
+    <string name="question_two_answer_four"> All the above </string>
+    <!--
+      Question and answers three. [CHAR LIMIT=NONE]
+    -->
+    <string name="question_three">Which of the following statements about Iberian lynx are correct?</string>
+    <string name="question_three_answer_one"> It is the most threaten European mammal</string>
+    <string name="question_three_answer_two"> It is carnivorous</string>
+    <string name="question_three_answer_three"> It is classified by IUCN as Near Threatened</string>
+    <string name="question_three_answer_four"> It is associated with typically Mediterranean habitats </string>
+    <!--
+     Question and answers four. [CHAR LIMIT=NONE]
+   -->
+    <string name="question_four">What was the year of establishment of IUCN?</string>
+    <string name="question_four_answer_one"> 1940</string>
+    <string name="question_four_answer_two"> 1947</string>
+    <string name="question_four_answer_three"> 1951</string>
+    <string name="question_four_answer_four"> 1948 </string>
+    <!--
+     Question and answers five. [CHAR LIMIT=NONE]
+   -->
+    <string name="question_five">what was the name of the French town where IUCN was established?</string>
+    <string name="question_five_answer">Town</string>
+    <!--
+     Question and answers five. [CHAR LIMIT=NONE]
+   -->
+    <string name="submit" translatable="false">Submit</string>
+    <!--
+     Final Message. [CHAR LIMIT=NONE]
+   -->
+    <!--
+      It will be shown in the format of "Name: Amy" where Amy is the
+      user's name. [CHAR LIMIT=NONE]
+    -->
+    <string name="user_name"> Name: <xliff:g id="Name" example="Amy"></xliff:g>%s</string>
+    <string name="counter">You got <xliff:g id="counter" example="2">%d</xliff:g> out of 5</string>
+    <string name="thank_you">Thank You</string>
+
+    <!--
+         More Info button. [CHAR LIMIT=NONE]
+       -->
+    <string name="info" translatable="false"> More Info</string>
+
+</resources>
