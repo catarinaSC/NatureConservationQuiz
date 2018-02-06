@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" translatable="false">Nature Conservation Quiz</string>
+    <!--
+      Question and answers one. [CHAR LIMIT=NONE]
+    -->
+    <string name="question_one"> Qual o significado da sigla UICN?</string>
+    <string name="question_one_answer_one">União Internacional para a Conservação da Natureza</string>
+    <string name="question_one_answer_two">União Importante para a Conservação da Natureza</string>
+    <string name="question_one_answer_three">Unidade Internacional para a Conservação da Natureza</string>
+    <!--
+      Question and answers two. [CHAR LIMIT=NONE]
+    -->
+    <string name="question_two">Quais as espécies classificadas com em perigo pela UICN?</string>
+    <string name="question_two_answer_one" translatable="false"> Cobitis calderoni</string>
+    <string name="question_two_answer_two" translatable="false"> Anaecypris hispanica</string>
+    <string name="question_two_answer_three" translatable="false"> Sus scrofa</string>
+    <string name="question_two_answer_four"> All the above </string>
+    <!--
+      Question and answers three. [CHAR LIMIT=NONE]
+    -->
+    <string name="question_three">Quais das seguintes afirmações sobre o Lince Ibérico estão corretas?</string>
+    <string name="question_three_answer_one"> É o mamífero europeu mais ameaçado</string>
+    <string name="question_three_answer_two"> É carnívoro</string>
+    <string name="question_three_answer_three"> Está classificado como quase ameaçado pela UICN</string>
+    <string name="question_three_answer_four"> Está associado a habitats tipicamente mediterrânicos </string>
+    <!--
+     Question and answers four. [CHAR LIMIT=NONE]
+   -->
+    <string name="question_four">Qual foi o ano de fundação da UICN?</string>
+    <string name="question_four_answer_one"> 1940</string>
+    <string name="question_four_answer_two"> 1947</string>
+    <string name="question_four_answer_three"> 1951</string>
+    <string name="question_four_answer_four"> 1948 </string>
+    <!--
+     Question and answers five. [CHAR LIMIT=NONE]
+   -->
+    <string name="question_five">Qual a cidade francesa onde se fundou a UICN?</string>
+    <string name="question_five_answer">Cidade</string>
+    <!--
+     Question and answers five. [CHAR LIMIT=NONE]
+   -->
+    <string name="submit" translatable="false">Submit</string>
+    <!--
+     Final Message. [CHAR LIMIT=NONE]
+   -->
+    <!--
+      It will be shown in the format of "Name: Amy" where Amy is the
+      user's name. [CHAR LIMIT=NONE]
+    -->
+    <string name="user_name"> Nome: <xliff:g id="Name" example="Amy">%s</xliff:g></string>
+    <string name="counter">Acertou <xliff:g id="counter" example="2">%d</xliff:g> de 5</string>
+    <string name="thank_you">Obrigado!</string>
+
+    <!--
+         More Info button. [CHAR LIMIT=NONE]
+       -->
+    <string name="info" translatable="false"> More Info</string>
+
+</resources>
